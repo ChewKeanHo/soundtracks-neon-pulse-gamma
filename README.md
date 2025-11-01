@@ -1,21 +1,32 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Neon Pulse Gamma | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+All good. Now into the exploration stage. Let's take a look into at refining
+the Alpha version once here. Here's a new version. Sing-along lyrics are in
+the sub-titles.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #pop #rnb #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Neon-Pulse-Gamma.mp3
+  Size: 10309632        Blocks: 20136      IO Block: 4096   regular file
+Device: 253,2   Inode: 40769141    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-01 17:12:47.049982805 +0800
+Modify: 2025-11-01 17:13:02.138042041 +0800
+Change: 2025-11-01 17:13:02.138042041 +0800
+ Birth: 2025-07-20 11:53:41.278236056 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-07-27
+On YouTube since : 2025-07-27
 ```
 
-[YouTube](#) |
+[YouTube](https://www.youtube.com/watch?v=xUbJHhzvVjw) |
 [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf) |
+[Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf) |
+[Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
 
 
 
@@ -36,9 +47,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Neon Pulse Gamma
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-neon-pulse-gamma
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------

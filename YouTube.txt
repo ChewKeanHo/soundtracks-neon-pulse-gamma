@@ -1,27 +1,29 @@
 TITLE
-🎧 | [MUSIC TITLE HERE]
+🎧 | Neon Pulse Gamma
 
 
 
 
 DESCRIPTION
-[DESCRIPTION HERE THAT CAN BE POSTED ON SOCIAL MEDIA]
+All good. Now into the exploration stage. Let's take a look into at refining the Alpha version once here. Here's a new version. Sing-along lyrics are in the sub-titles.
 
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #pop #rnb #femalevocal
 
 
 § COLLECTIONS
 ━━━━━━━━━━━━
-Album Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
-Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
+Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjg0yfwK_mBWK16kE-EsG1c
+Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjALDxuCrPbpVheObmrGeqe
 
 
 § METADATA
 ━━━━━━━━━━
 Music made in: https://www.udio.com/
+Video made in: https://vizzy.io/
 Project by: (Holloway) Chew, Kean Ho
+Lyrics by: (Holloway) Chew, Kean Ho + AI translation assistance
 Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: [REPOSITORY_HERE]
+Repository: https://github.com/ChewKeanHo/soundtracks-neon-pulse-gamma
 
 
 § FAQ
@@ -64,4 +66,4 @@ I just see A.I. is the next step forward and I want it to augment me; not resist
 
 
 TAGS
-electronicmusic, soundtrack
+electronicmusic, soundtrack, contemporary r&b, dance-pop, pop, female vocalist, rhythmic, electronicdancemusic, passionate, hedonistic, boostful, energetic, electropop, sensual, sexy, rave
