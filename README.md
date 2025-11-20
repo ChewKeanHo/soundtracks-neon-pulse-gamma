@@ -9,13 +9,11 @@ the sub-titles.
 ```
 #electronicmusic #soundtrack #pop #rnb #femalevocal
 
-  File: Audios/Neon-Pulse-Gamma.mp3
+  File: Audios/03_Neon-Pulse-Gamma.mp3
   Size: 10309632        Blocks: 20136      IO Block: 4096   regular file
-Device: 253,2   Inode: 40769141    Links: 1
-Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
-Access: 2025-11-01 17:12:47.049982805 +0800
-Modify: 2025-11-01 17:13:02.138042041 +0800
-Change: 2025-11-01 17:13:02.138042041 +0800
+Access: 2025-11-20 11:31:33.829944978 +0800
+Modify: 2025-11-03 06:32:39.015934753 +0800
+Change: 2025-11-20 11:31:42.109973446 +0800
  Birth: 2025-07-20 11:53:41.278236056 +0800
 
 On Published Date: 2025-05-30
@@ -35,6 +33,7 @@ On YouTube since : 2025-07-27
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 * [Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf)
 * [Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -55,11 +54,15 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Neon Pulse Gamma
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-neon-pulse-gamma
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Neon Pulse Gamma
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-neon-pulse-gamma
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Video made in: https://vizzy.io/
+Procure: https://github.com/ChewKeanHo/soundtracks-neon-pulse-gamma
 --------------------------------------------------------------------------------
 ```
 
